@@ -2,6 +2,8 @@
 
 # Import the theme
 theme: jekyll-theme-chirpy
+plugins:
+  - jekyll-tabs
 lang: en
 timezone: Asia/Kolkata
 
@@ -109,7 +111,8 @@ pwa:
 paginate: 20 #Blog Post per page
 
 # The base URL of your site
-baseurl: ""
+# baseurl: ""
+domain: algopush.com
 
 # ------------ The following options are not recommended to be modified ------------------
 
